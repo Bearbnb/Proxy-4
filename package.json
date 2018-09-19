@@ -1,0 +1,23 @@
+{
+  "name": "proxy-4",
+  "version": "1.0.0",
+  "description": "BearBnB Proxy",
+  "main": "index.js",
+  "author": "Celeste Zamora",
+  "license": "ISC",
+  "homepage": "https://github.com/Bearbnb/Proxy-4#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start" :"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bearbnb/Proxy-4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bearbnb/Proxy-4/issues"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
