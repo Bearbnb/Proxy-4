@@ -1,8 +1,0 @@
-#header-image {
-  width:  100px; /*or 70%, or what you want*/
-  height: 200px; /*or 70%, or what you want*/
-  background-image: url(https://s3-us-west-1.amazonaws.com/bearbnbphotos/Screen+Shot+2018-09-19+at+2.58.02+PM.png);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}

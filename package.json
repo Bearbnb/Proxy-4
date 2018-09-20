@@ -7,8 +7,8 @@
   "license": "ISC",
   "homepage": "https://github.com/Bearbnb/Proxy-4#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
-    "start" :"nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,10 @@
     "url": "https://github.com/Bearbnb/Proxy-4/issues"
   },
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "grunt": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "^4.0.0"
   }
 }
