@@ -4,8 +4,9 @@ module.exports = function(grunt) {
             dist: {
                 files: {
                     'public/bundle.js': ['hrsf102-description-service/public/dist/bundle.js',
-                     'hrsf102-reviews-service/public/bundle.js',
-                    'booking-widget/client/dist/bundle.js', 'photo-portal/AppBuild/build/main.82cb8d08.js']
+                    'hrsf102-reviews-service/public/bundle.js',
+                    'booking-widget/client/dist/bundle.js', 
+                    'photo-portal/AppBuild/build/static/js/main.3dd84b9f.js']
                 }
             }
         }

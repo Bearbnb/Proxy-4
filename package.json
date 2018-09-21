@@ -23,6 +23,7 @@
     "grunt": "^1.0.3"
   },
   "devDependencies": {
-    "grunt-contrib-uglify": "^4.0.0"
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0"
   }
 }
