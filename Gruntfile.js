@@ -3,7 +3,9 @@ module.exports = function(grunt) {
         uglify: {
             dist: {
                 files: {
-                    'public/bundle.js': ['hrsf102-description-service/public/dist/bundle.js', 'hrsf102-reviews-service/public/bundle.js']
+                    'public/bundle.js': ['hrsf102-description-service/public/dist/bundle.js',
+                     'hrsf102-reviews-service/public/bundle.js',
+                    'booking-widget/client/dist/bundle.js']
                 }
             }
         }
